@@ -2,6 +2,7 @@
 
 ### Important Note
 
+
 This library was originally a project for **CS-2362 at Ashoka University** and is in no way affiliated with or endorsed by WhatsApp. Use at your own discretion. Do not spam people with this. We discourage any stalkerware, bulk or automated messaging usage. 
 
 #### Liability and License Notice
@@ -887,5 +888,6 @@ Some examples:
     sock.ws.on(`CB:edge_routing,id:abcd,routing_info`, (node: BinaryNode) => { })
     ```
  Also, this repo is now licenced under GPL 3 since it uses [libsignal-node](https://git.questbook.io/backend/service-coderunner/-/merge_requests/1)
-#   b a i l e y s  
+#   b a i l e y s 
+ 
  
